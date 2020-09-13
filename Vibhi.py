@@ -23,4 +23,4 @@ async def on_ready():
     print('\n---> BOT is awake\n')
     
 
-bot.run(config('BOT_TOKEN'))
+bot.run(config('NzU0NjM3MzQ2MTc0OTI2OTY4.X13oyw.NDc1ldMyPyt2S3TQGkV-SvWCnHk'))
